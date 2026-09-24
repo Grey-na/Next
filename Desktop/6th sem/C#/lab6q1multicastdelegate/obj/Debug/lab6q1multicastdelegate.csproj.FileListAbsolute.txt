@@ -1,0 +1,7 @@
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\bin\Debug\lab6q1multicastdelegate.exe.config
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\bin\Debug\lab6q1multicastdelegate.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\bin\Debug\lab6q1multicastdelegate.pdb
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\obj\Debug\lab6q1multicastdelegate.csproj.AssemblyReference.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\obj\Debug\lab6q1multicastdelegate.csproj.CoreCompileInputs.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\obj\Debug\lab6q1multicastdelegate.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab6q1multicastdelegate\obj\Debug\lab6q1multicastdelegate.pdb

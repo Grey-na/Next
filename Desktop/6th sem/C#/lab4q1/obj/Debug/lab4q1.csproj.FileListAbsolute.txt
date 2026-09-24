@@ -1,0 +1,7 @@
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\bin\Debug\lab4q1.exe.config
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\bin\Debug\lab4q1.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\bin\Debug\lab4q1.pdb
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\obj\Debug\lab4q1.csproj.AssemblyReference.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\obj\Debug\lab4q1.csproj.CoreCompileInputs.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\obj\Debug\lab4q1.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab4q1\obj\Debug\lab4q1.pdb

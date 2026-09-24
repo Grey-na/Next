@@ -1,0 +1,7 @@
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\bin\Debug\Animal.exe.config
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\bin\Debug\Animal.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\bin\Debug\Animal.pdb
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\obj\Debug\Animal.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\Animal\obj\Debug\Animal.pdb

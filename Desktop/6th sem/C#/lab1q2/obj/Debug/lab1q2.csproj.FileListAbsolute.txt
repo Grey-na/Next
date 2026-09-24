@@ -1,0 +1,7 @@
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\bin\Debug\lab1q2.exe.config
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\bin\Debug\lab1q2.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\bin\Debug\lab1q2.pdb
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\obj\Debug\lab1q2.csproj.AssemblyReference.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\obj\Debug\lab1q2.csproj.CoreCompileInputs.cache
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\obj\Debug\lab1q2.exe
+C:\Users\SUHANA DALA MAGAR\Desktop\6th sem\C#\lab1q2\obj\Debug\lab1q2.pdb

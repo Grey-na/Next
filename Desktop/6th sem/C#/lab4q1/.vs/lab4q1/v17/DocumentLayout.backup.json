@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\6th sem\\C#\\lab4q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0844F05-B1F7-4205-B4BB-5CFCABCE96E5}|lab4q1.csproj|c:\\users\\suhana dala magar\\desktop\\6th sem\\c#\\lab4q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0844F05-B1F7-4205-B4BB-5CFCABCE96E5}|lab4q1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0844F05-B1F7-4205-B4BB-5CFCABCE96E5}|lab4q1.csproj|c:\\users\\suhana dala magar\\desktop\\6th sem\\c#\\lab4q1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0844F05-B1F7-4205-B4BB-5CFCABCE96E5}|lab4q1.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\6th sem\\C#\\lab4q1\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\6th sem\\C#\\lab4q1\\Teacher.cs*",
+              "RelativeToolTip": "Teacher.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T02:26:56.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\6th sem\\C#\\lab4q1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\6th sem\\C#\\lab4q1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T02:24:47.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

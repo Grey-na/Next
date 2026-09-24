@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\5th sem\\C#\\Firstclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F5EE9-21F2-4E69-834B-0595D820F5DD}|Firstclass\\Firstclass.csproj|c:\\users\\suhana dala magar\\desktop\\5th sem\\c#\\firstclass\\firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F5EE9-21F2-4E69-834B-0595D820F5DD}|Firstclass\\Firstclass.csproj|solutionrelative:firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\5th sem\\C#\\Firstclass\\Firstclass\\Program.cs",
+              "RelativeDocumentMoniker": "Firstclass\\Program.cs",
+              "ToolTip": "C:\\Users\\SUHANA DALA MAGAR\\Desktop\\5th sem\\C#\\Firstclass\\Firstclass\\Program.cs",
+              "RelativeToolTip": "Firstclass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T02:26:07.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
